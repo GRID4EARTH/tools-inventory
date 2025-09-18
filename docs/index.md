@@ -11,3 +11,12 @@ indexing/cell-ids
 indexing/spatial-query
 indexing/neighbourhood
 ```
+
+```{toctree}
+---
+caption: Visualization
+hidden: true
+---
+visualization/vector
+visualization/raster
+```
